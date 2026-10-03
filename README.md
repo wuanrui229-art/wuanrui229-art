@@ -4,10 +4,17 @@ I study International Tourism Management at Macau University of Science and Tech
 
 I work across product requirements, interaction prototypes and AI-assisted implementation. For research projects, I aim to make the evaluation evidence as accessible as the demo.
 
+## Interactive portfolio
+
+**[Enter my 3D room · 进入 3D 作品集 →](https://wuanrui-3d-office.vercel.app/)**
+
+Explore an interactive 3D office with project experiences, a personal introduction and room interactions. Open the live portfolio directly in your browser.
+
 ## Selected projects
 
 | Project | Focus | What you can inspect |
 | --- | --- | --- |
+| [3D Room Portfolio · 交互式作品集](https://wuanrui-3d-office.vercel.app/) | Spatial interaction and portfolio presentation | [Live 3D experience](https://wuanrui-3d-office.vercel.app/), interactive room objects, project showcases and personal introduction |
 | [MICEPlan-Lab](https://github.com/wuanrui229-art/miceplan-lab) | Deterministic validation and LLM layout repair | Frozen experiments, source code, independent adjudication and offline reproduction |
 | [MICECAD AI Booth Planning](https://github.com/wuanrui229-art/micecad-ai-booth-planning) | Constraint-aware exhibition planning | Interactive workflow, editable booth objects, rule evidence and approval |
 | [Smart Shopping AI](https://github.com/wuanrui229-art/smart-shopping-agent) | Explainable shopping decisions | Conversational prototype, recommendation pipeline, comparisons and project documents |
